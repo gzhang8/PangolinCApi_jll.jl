@@ -1,0 +1,10 @@
+[[PangolinCApi]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "07177627a215a03705b723ae64f7b1b11fc7419e"
+libc = "glibc"
+os = "linux"
+
+    [[PangolinCApi.download]]
+    sha256 = "0bd84fdd2153a676cbb86d3f8564ccf90502e13c63fc9055c9d85ca1800a8adb"
+    url = "https://github.com/gzhang8/PangolinCApi_jll.jl/releases/download/PangolinCApi-v0.6.0+0/PangolinCApi.v0.6.0.x86_64-linux-gnu-cxx11.tar.gz"
